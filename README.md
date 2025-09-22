@@ -1,6 +1,6 @@
 # 🐟 SteamFish Prank 🎣
 
-https://media.tenor.com/6m3I1g_WiokAAAAM/fish-spin-sha.gif
+![Моя гифка](images/example.gif)
 
 **Замаскированное приложение для macOS, которое устроит вашему другу незабываемый «День рыбака».**
 
